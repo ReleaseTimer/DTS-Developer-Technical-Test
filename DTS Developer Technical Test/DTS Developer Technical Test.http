@@ -1,0 +1,6 @@
+@DTS_Developer_Technical_Test_HostAddress = http://localhost:5277
+
+GET {{DTS_Developer_Technical_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

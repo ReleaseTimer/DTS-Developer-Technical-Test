@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTS Developer Technical Test", "DTS Developer Technical Test\DTS Developer Technical Test.csproj", "{F90FA208-A1AB-4A27-82CA-D9AC18C5F27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90FA208-A1AB-4A27-82CA-D9AC18C5F27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90FA208-A1AB-4A27-82CA-D9AC18C5F27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90FA208-A1AB-4A27-82CA-D9AC18C5F27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90FA208-A1AB-4A27-82CA-D9AC18C5F27E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D7D1BB2-D9C4-4630-914A-C92D50B9E72A}
+	EndGlobalSection
+EndGlobal
